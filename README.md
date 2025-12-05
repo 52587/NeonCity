@@ -2,9 +2,6 @@
 
 **Neon City** is a real-time procedural simulation written entirely in Python using PyOpenGL. The goal was to create an atmospheric cyberpunk skyline that feels organic and dense, avoiding the repetitive look of standard grid-based cities.
 
-![Neon City Screenshot](https://github.com/52587/NeonCity/assets/placeholder.png)
-*(Note: You can replace this link with an actual screenshot of your project)*
-
 ## Features
 *   **Organic Layout:** Uses a **Rejection Sampling** algorithm with AABB collision detection to place buildings naturally, creating varied alleyways and non-grid layouts.
 *   **Procedural Skyline:** Utilizes **Perlin Noise** to generate smooth height maps, creating distinct neighborhoods with realistic vertical flow.
